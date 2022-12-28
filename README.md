@@ -124,7 +124,7 @@
 * [A program that requires the user to enter 4 digits and print the sum of the first two digits in a line and the sum of the second two digits in a separate line
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-7.c)
 
-* [//A program that asks the user to enter 3 digits and print the sum of the first two digits multiplied by the third number
+* [A program that asks the user to enter 3 digits and print the sum of the first two digits multiplied by the third number
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-8.c)
 
 * [A program that requires the user to enter 4 digits and print the sum of the first two digits in a line and multiply the other two digits in another line
