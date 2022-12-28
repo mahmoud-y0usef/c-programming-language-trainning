@@ -133,7 +133,7 @@
 * [A program that asks the user to enter 5 digits and print their total
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-10.c)
 
-* [//A program that takes 4 numbers from the user and combines the first two numbers, then subtracts the third number, then multiplies it by the fourth number and prints the result.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-11.c)
+* [A program that takes 4 numbers from the user and combines the first two numbers, then subtracts the third number, then multiplies it by the fourth number and prints the result.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-11.c)
 
 * [A program that asks a person about his age in years and then prints his age in days without leap years.
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-12.c)
