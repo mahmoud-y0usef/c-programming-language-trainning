@@ -183,3 +183,18 @@
 
 * [It is necessary to read books from time to time in order to increase and increase your information. Required: Write a program that asks the user to enter the number of books he reads daily and then tells him if he continues at the same level, he will read how many books at the end of the month.
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%2012.c)
+
+## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
+
+* [Problem statement 
+Sherif is a student at Gammal Tech. Indeed, every time he finishes a lesson on the   website, he takes a few hours to do the exercise below the video. 
+He wanted to increase his rank on the website, so he started making videos to solve the problems, and posting them on his social media accounts. He sent them to   Gammal Tech Technical Support in order to get his volunteering points. 
+The scoring criteria is the following:
+- The low quality video gives Sherif 1 point.
+- The good quality video gives Sherif 3 points.
+You need to calculate the number of  Sherif's volunteering points.
+Input
+The first line of the input contains one integer L low quality video (L ≥ 0 ) 
+The second line of the input contains one integer H High quality video (H ≥ 0 ) 
+Output
+the total volunteering points](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem1.c)
