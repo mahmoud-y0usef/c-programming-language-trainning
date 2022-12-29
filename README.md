@@ -124,7 +124,7 @@
 * [A program that requires the user to enter 4 digits and print the sum of the first two digits in a line and the sum of the second two digits in a separate line
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-7.c)
 
-* [//A program that asks the user to enter 3 digits and print the sum of the first two digits multiplied by the third number
+* [A program that asks the user to enter 3 digits and print the sum of the first two digits multiplied by the third number
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-8.c)
 
 * [A program that requires the user to enter 4 digits and print the sum of the first two digits in a line and multiply the other two digits in another line
@@ -133,7 +133,7 @@
 * [A program that asks the user to enter 5 digits and print their total
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-10.c)
 
-* [//A program that takes 4 numbers from the user and combines the first two numbers, then subtracts the third number, then multiplies it by the fourth number and prints the result.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-11.c)
+* [A program that takes 4 numbers from the user and combines the first two numbers, then subtracts the third number, then multiplies it by the fourth number and prints the result.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-11.c)
 
 * [A program that asks a person about his age in years and then prints his age in days without leap years.
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-12.c)
@@ -143,3 +143,43 @@
 * [Each of us dreams of owning many luxurious cars. Required: A program that asks the user how many cars he owns now and how many cars he wants, then prints the rest of the cars for him.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-14.c)
 
 * [There are a lot of students studying graphs in school and we would like to help them. Required: Write a program that takes the values of 3 variables x, y and z and then prints the x + z and the y + z in parentheses eg 5 7 8 (15, 13)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/scan%20f/scanf-15.c)
+
+## [C Programming Practice 1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/C%20Programming%20Practice%201)
+
+* [file C Programming Practice 1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%204%20Practice%201.pdf)
+
+* [A program requesting a person to enter a number and print the output between the two text marks "
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%201.c)
+
+* [A program that asks a person about the date of birth and predicts that the person will set any sign or interval after the day, month and year, and prints them that the date of birth is (day/month/year).
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%202.c)
+
+* [A program that asks the user to enter the value of his monthly salary and then calculates the value of his annual salary and prints it on the screen.
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%203.c)
+
+* [A program that asks a person about his age and prints for him the year of his birth
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%204.c)
+
+* [Automotive Software: Before going to a long drive, you need to make sure there's enough gasoline in the car to go to the trip. Required : write a program that asks the person how many litres of gasoline in the car and prints it how many kilometres a car can cut without having to add gasoline. (If the liter of gasoline is enough for 23 km)
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%205.c)
+
+* [Study Subjects Program: In one school after performing the exams of 5 subjects each from 100 degrees, and the grades of 5 subjects emerged, some students wanted to calculate their total and the total grades they lack to try next year to reduce this difference. Required: Write a program that asks the student for his grades in the 5 subjects and the program prints the total and total grades missing
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%206.c)
+
+* [Carpenters' Program: The carpenter uses many nails while making furniture, the carpenter wanted to make some chairs and tables, if the one chair needs 25 nails to make it and the table needs 30 nails. Required: Write a program that asks a person how many chairs and how many tables he wants to make and prints the total nails he needs.
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%207.c)
+
+* [Internet Companies Program : Some companies that provide monthly subscription services upon renewal of the subscription migrate the remaining balance in the last month for the new month. Required: Write a program that asks the person on the monthly subscription balance and on their consumption in the current month of the balance and prints the new month balance
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%208.c)
+
+* [Supermarket Program: When Rowan shopped, she had a list of products she wanted to buy, and she would buy different quantities of these products, she wanted to calculate the total amount required to buy the products.Required: Write a program that records the prices of 5 products, then the user asks how much of each product he wants and prints the total amount at the end.
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%209.c)
+
+* [Cashier Employee Program: In any store or supermarket there is a cashier who receives payments from customers, before the appointment to this job the person passes a test to measure whether he qualifies or not, in this test the so-called pal is calculated (deficit) is the difference between the amount received from customers and the actual amount of products. If the deficit is significant, the person is not eligible to work.Required:Write a program that calculates the deficit if it is, where it records the prices of 5 products and asks the cashier about the quantity of products purchased by customers of these products and the total amount paid.
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%2010.c)
+
+* [Sharif finished his high school exams, and when the result appeared, he wanted to calculate the number of grades he had lost. Required: Write a program that asks the person about his grades in 6 different subjects, assuming that each subject is out of 100, and then prints a missing score in all subjects
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%2011.c)
+
+* [It is necessary to read books from time to time in order to increase and increase your information. Required: Write a program that asks the user to enter the number of books he reads daily and then tells him if he continues at the same level, he will read how many books at the end of the month.
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%201/C%20Programming%20Practice%2012.c)
