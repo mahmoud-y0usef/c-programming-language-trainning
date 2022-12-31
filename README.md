@@ -216,6 +216,24 @@
 * [Type a program that asks a person to enter the value of his or her salary and the number of days off during the year, if the number of days is less than or equal to 21 is added to the salary 10,000 pounds, if more than 21 the increase is 5000 pounds, and prints the value of the annual increase and the value of the new salary on the screen
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex10.c)
 
+* [Temperature programme. In the summer, we turn on the air conditioner in order to control the temperature to make it lower. Required: Write a program if the temperature is above 30 degrees Celsius, it prints "turn on AC", otherwise it prints "Temp is fine".
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex11.c)
+
+* [Drinking water program. In order for athletes to function well, they must drink a large amount of water, and non-athletes also, water is the secret of life. Required: Write a program if the user drinks less than 3 liters per day, it will print "drink more water", otherwise it will print "well". done".
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex12.c)
+
+* [Write a program. If the user enters a number greater than 10, he will be printed "greater than 10", and if he enters a smaller number, he will print "less than 10", and if he enters the same 10, he will print "equal 10".
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex13.c)
+
+* [YouTube Views Program. When we volunteer, we upload our explainer videos to YouTube or any other platform and then send the video link to Gammal Tech so that the volunteering hours will increase. Required: Write a program that takes input from the user expressing the number of views a week ago and Another input expresses the current views and if the views increase it prints "views increased" if the views decreased its prints "views decreased" other than that it prints "same views".
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex14.c)
+
+* [Game of chance. We all love games. What do you think about making one then. What is required: Write a program that takes input from the user and if 1 prints "jump 30 times" and if 2 prints "run 1 km" and so on and you can add more.
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex15.c)
+
+* [Gammal Tech Degree Program. After the end of each course, the participant on the gammal.tech website must pass an exam on the course in order to know if they fully understood the course or if they need to review some topics. Required: Write a program if the student gets a score of 100%, printing “congratulations”, otherwise  it prints "good luck next time"
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex16.c)
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
