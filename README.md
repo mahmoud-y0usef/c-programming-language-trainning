@@ -234,7 +234,31 @@
 * [Gammal Tech Degree Program. After the end of each course, the participant on the gammal.tech website must pass an exam on the course in order to know if they fully understood the course or if they need to review some topics. Required: Write a program if the student gets a score of 100%, printing “congratulations”, otherwise  it prints "good luck next time"
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex16.c)
 
-## [for loop ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/if%20statement)
+## [for loop ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/for%20loop)
+
+* [A program that prints person's name 10 times](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex1.c)
+
+* [A program that prints numbers from 1 to 100](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex2.c)
+
+* [A program that prints multiples of 9 ( from 1 to 12)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex3.c)
+
+* [A program that asks a person to enter any number and applies the numbers from 1 to the number that I enter](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex4.c)
+
+* [A program that asks a person to enter any number and applies the numbers from the number I enter to the number 1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex5.c)
+
+* [A program that asks the user to enter a number smaller than 15 and then prints all the numbers from this number to the number 15](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex6.c)
+
+* [A program that requests the user to enter a number if the number is greater than 20 prints all the numbers from 20 to this number, and if smaller than 20 prints all the numbers from this number to 20](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex7.c)
+
+* [A program that prints numbers from 10:10 -](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex8.c)
+
+* [A program that asks a person to enter two numbers, second one smaller than the first one; then prints the numbers from to first one to the second one](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex9.c)
+
+* [A program that asks a person to enter two different numbers and print the numbers from the smallest to the largest.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex10.c)
+
+* [A program to find the sum of the first 10 numbers.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex11.c)
+
+* [A program to calculate the factorial of a given number.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex12.c)
 
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
