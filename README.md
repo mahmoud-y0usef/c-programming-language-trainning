@@ -234,6 +234,8 @@
 * [Gammal Tech Degree Program. After the end of each course, the participant on the gammal.tech website must pass an exam on the course in order to know if they fully understood the course or if they need to review some topics. Required: Write a program if the student gets a score of 100%, printing “congratulations”, otherwise  it prints "good luck next time"
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/if%20statement/if-ex16.c)
 
+## [for loop ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/if%20statement)
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
