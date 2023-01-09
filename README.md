@@ -260,6 +260,12 @@
 
 * [A program to calculate the factorial of a given number.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex12.c)
 
+## [C Programming Practice 1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/C%20Programming%20Practice%202)
+
+* [file C Programming Practice 2](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%207%20%20Practice%202.pdf)
+
+* [A program that asks the user about the number of pages of the book and how many pages he has read to date and then prints the number of days needed for the user to finish reading all the book (the user reads every page of the book every two days)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%202/c%20programming%20practice%201.c)
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
