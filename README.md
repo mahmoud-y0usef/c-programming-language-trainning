@@ -266,6 +266,30 @@
 
 * [A program that asks the user about the number of pages of the book and how many pages he has read to date and then prints the number of days needed for the user to finish reading all the book (the user reads every page of the book every two days)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%202/c%20programming%20practice%201.c)
 
+## [while](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/while)
+
+* [file while](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%208%20while.pdf)
+
+* [super market](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex1.c)
+
+* [A program that asks a person to enter different numbers if the number is positive and his side applies the word "is positive" and if he negatively applies the number and his side applies the word "is negative" and the program closes to what enters 0 (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex2.c)
+
+* [A program that prints 8 Multiplication Table (Using While)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex3.c)
+
+* [A program that prints numbers from 1:100 (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex4.c)
+
+* [A program that asks a person to enter any number and applies the numbers from 1 to the number that you enter and prints the total numbers from 1 to the number that you enter (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex5.c)
+
+* [A program that asks the user to enter a number smaller than 15 and then prints all the numbers from this number to the number 15 (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex6.c)
+
+* [A program that asks the user to enter a number if the number is greater than 20 prints all the numbers from 20 to this number, and if smaller than 20 prints all the numbers from this number to 20](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex7.c)
+
+* [A program that prints numbers from 10:10 - (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex8.c)
+
+* [A program that asks a person to enter two numbers smaller than the second and is printed from the first number to the second number (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex9.c)
+
+* [A program that asks a person to enter two different numbers and print the numbers from the smallest to the largest (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex10.c)
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
