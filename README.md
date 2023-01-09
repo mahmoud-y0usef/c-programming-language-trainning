@@ -260,7 +260,7 @@
 
 * [A program to calculate the factorial of a given number.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/for%20loop/for-ex12.c)
 
-## [C Programming Practice 1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/C%20Programming%20Practice%202)
+## [C Programming Practice 2](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/C%20Programming%20Practice%202)
 
 * [file C Programming Practice 2](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%207%20%20Practice%202.pdf)
 
