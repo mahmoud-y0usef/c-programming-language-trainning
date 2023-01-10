@@ -328,3 +328,25 @@ The first line of the input contains one integer L low quality video (L ≥ 0�
 The second line of the input contains one integer H High quality video (H ≥ 0 ) 
 Output
 the total volunteering points](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem1.c)
+
+* [Problem statement
+
+Ahmed was thinking about implementing a password checker (same as his laptop), but a much simpler program. Because he always forgets his passwords, so he saved 3 passwords on his laptop's password checker.
+
+Ahmed's saved password:
+
+    - 1111
+
+    - 2222
+
+    - 3333
+
+You will be given multiple lines, each line containing an N number (Ahmed's password). Check if the password matches Ahmed's 3 saved passwords, and terminate the program if the password is "Correct".
+
+Input
+
+Each of the following lines will contain the passwords N (1 ≤ N ≤ 10^4 ).
+
+Output
+
+Print "Incorrect" if the password is wrong, otherwise print "Correct".](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem2.c)
