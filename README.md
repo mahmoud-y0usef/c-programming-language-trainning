@@ -337,7 +337,7 @@ Ahmed's saved password:
      2222
 
      3333
-You will be given multiple lines, each line containing an N number (Ahmed's password). Check if the password matches Ahmed's 3 saved passwords, and terminate the program if the password is "Correct".
+You will be given multiple lines, each line containing an N number Ahmed's password. Check if the password matches Ahmed's 3 saved passwords, and terminate the program if the password is "Correct".
 Input
 Each of the following lines will contain the passwords N 1 ≤ N ≤ 10^4 .
 Output
