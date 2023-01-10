@@ -335,11 +335,11 @@ Ahmed was thinking about implementing a password checker (same as his laptop), b
 
 Ahmed's saved password:
 
-    - 1111
+    1- 1111
 
-    - 2222
+    2- 2222
 
-    - 3333
+    3- 3333
 
 You will be given multiple lines, each line containing an N number (Ahmed's password). Check if the password matches Ahmed's 3 saved passwords, and terminate the program if the password is "Correct".
 
