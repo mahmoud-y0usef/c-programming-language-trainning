@@ -331,7 +331,7 @@ the total volunteering points](https://github.com/mahmoud-y0usef/c-programming-l
 
 * [Problem statement
 Ahmed was thinking about implementing a password checker same as his laptop, but a much simpler program. Because he always forgets his passwords, so he saved 3 passwords on his laptop's password checker.
-Ahmed's saved password:
+Ahmed's saved password
      1111
 
      2222
