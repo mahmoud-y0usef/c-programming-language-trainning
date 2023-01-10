@@ -341,4 +341,4 @@ You will be given multiple lines, each line containing an N number (Ahmed's pass
 Input
 Each of the following lines will contain the passwords N (1 ≤ N ≤ 10^4 ).
 Output
-Print "Incorrect" if the password is wrong, otherwise print "Correct".](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem2.c)
+Print Incorrect if the password is wrong, otherwise print Correct](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem2.c)
