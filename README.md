@@ -290,6 +290,30 @@
 
 * [A program that asks a person to enter two different numbers and print the numbers from the smallest to the largest (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/while/while-ex10.c)
 
+## [do while](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/do%20while)
+
+* [file do while](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%209%20Do%20While.pdf)
+
+* [‍A program that prints a person's name 10 times (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex1.c)
+
+* [A program that prints numbers from 1:100 (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex2.c)
+
+* [A program that prints numbers from 1:100 and collects them all and prints the total (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex3.c)
+
+* [A program that asks the user for the password if the user enters any number other than 12345 refers the question. If 12345 goes in it says "password is correct" (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex4.c)
+
+* [A program that asks the user to enter numbers without stopping until the entry of number 5, the program stops working and prints "Is Five" (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex5.c)
+
+* [A program that requires the user to enter a set of numbers whenever the user enters a positive number. The tally is provided with 1. Whenever it enters a negative number, 1 of the tally is decreased and the program stops working when zero enters and prints the tally (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex6.c)
+
+* [A program that requests the user to enter a number if the number is greater than 20 prints all the numbers from 20 to this number, and if smaller than 20 prints all the numbers from this number to 20](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex7.c)
+
+* [A program for printing numbers from 10:10 (using do.. while )](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex8.c)
+
+* [‍A program that asks a person to enter two numbers smaller than the second and is printed from the first number to the second number (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex9.c)
+
+* [A program that asks a person to enter two different numbers and print the numbers from the smallest to the largest (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex10.c)
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
