@@ -314,6 +314,37 @@
 
 * [A program that asks a person to enter two different numbers and print the numbers from the smallest to the largest (using while)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/do%20while/do%20while-ex10.c)
 
+## [switch](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/switch)
+
+* [switch file](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%2010%20Switch.pdf)
+
+* [‍A program that asks a person to enter a number and if the number is equal to 0 prints "not positive or negative" if not printed "just a number" (using switch)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/switch/switch-ex1.c)
+
+* [A program that asks a person to enter the number of a day of the week from 1 to 7 and prints the name of the day this week where Saturday is day number 1 (using switch)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/switch/switch-ex2.c)
+
+* [A program that asks the user to enter the number from 1 to 8 and prints this number with the name of the number (using the switch)
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/switch/switch-ex3.c)
+
+* [A program that asks the mother to enter the number of her children and if they are more than 3 prints (you have a lot of kids) lo 2 prints (you have 2 kids) If 1 asks her he is a boy and not a girl and her hands choose to write number 1 or 2 if I write 1 means a boy. (you have a little prince) and if you write 2 means the daughter of the program prints (you have a little princess)
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/switch/switch-ex4.c)
+
+## [C Programming Practice 3](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/C%20Programming%20Practice%203)
+
+* [A program that asks a person to enter this number if more than 10 and less than 20 prints the word "Teen"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%201.c)
+
+* [At the club there are some games that are dangerous to some people's ages. If this person is younger than 10 years or older than 50 years, he or she is prohibited from entering. Required: Make a program that asks a person to enter a number expressing his age, if he is older than 50 or less than 10 prints the word "not allowed"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%202.c)
+
+* [A program that asks a person to enter this number if more than 10 and less than 20 prints the word "Teen"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%203.c)
+
+* [On holidays, most people go to buy new clothes, so most shops and shops do discounts on clothes. Required: Make a program for a clothing store where it prints the discount value according to the number of pieces purchased by the customer.
+Example:
+If the number of pieces 1 software prints discount = 10%
+If the number of pieces 2 software prints discount = 20%
+If the number of pieces 3 software prints discount = 30%
+If the number of pieces 4 software prints discount = 40%
+If 5 pieces or more software prints discount = 50%
+](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%204.c)
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
@@ -342,3 +373,12 @@ Input
 Each of the following lines will contain the passwords N 1 ≤ N ≤ 10^4
 Output
 Print Incorrect if the password is wrong, otherwise print Correct](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem2.c)
+
+* [Problem statement 
+    Foad finished his Thanway Amma exams, and he is looking for a highly ranked   university to study Computer Science degree. Then, He started to do a college list   with the admission criteria for each college.
+    After long research, he found his dream university in the UK, but he got frustrated by   his marks. In fact, his marks may decrease the chance of getting into his dream   university. The admission criteria of the university in terms of school subjects
+    He must obtain more than or equal 65 in Math ( m ), more than or equal 55 in physics  ( p ),   and more than or equal 50 in Chemistry ( c ). All must be with a total of more  than or equal to 190, or to obtain more than or equal 140 in Math and Physics. Can  you  solve foad's problem, and tell him if he can be admitted or not into his dream  university.
+    Input
+    The first line of the input contains one integer m (m ≥ 0 ), the second line is one integer p (p ≥ 0), and the third is c (c  ≥ 0).
+    Output
+    Print if Foad will pass the admission phase at the university or not.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem3.c)
