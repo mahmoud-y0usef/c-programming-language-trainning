@@ -330,6 +330,8 @@
 
 ## [C Programming Practice 3](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/C%20Programming%20Practice%203)
 
+* [file C Programming Practice 3](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%2011%20Practice%203.pdf)
+
 * [A program that asks a person to enter this number if more than 10 and less than 20 prints the word "Teen"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%201.c)
 
 * [At the club there are some games that are dangerous to some people's ages. If this person is younger than 10 years or older than 50 years, he or she is prohibited from entering. Required: Make a program that asks a person to enter a number expressing his age, if he is older than 50 or less than 10 prints the word "not allowed"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%202.c)
