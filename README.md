@@ -348,7 +348,25 @@ If 5 pieces or more software prints discount = 50%
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%204.c)
 
 
-## [array]()
+## [array](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/array)
+
+* [file array part1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%2012%20Array%20.pdf)
+
+* [file array part2](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/Lesson%2013%20Array%20.pdf)
+
+* [A program that asks a person to enter 10 consecutive numbers and when implemented prints each number in a line and prints their total.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex1.c)
+
+* [A program that asks a person to enter 10 consecutive numbers and when implemented prints each number in a line and prints their total.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex2.c)
+
+* [A program that asks a person to enter a number that reflects the number he will enter thereafter and records the numbers, prints them and prints their totality.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex3.c)
+
+* [A program in which array contains 10 digits, implemented threshold prints the numbers in the marital positions inside the array](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex4.c)
+
+* [A program in which array contains 10 digits, implemented threshold prints the numbers in the marital positions inside the array](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex5.c)
+
+* [A program that asks a person to enter 10 numbers, if he finds that there is an entry number = 5 printed to him "found" and after the program is finished it again on its own.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex6.c)
+
+* [A program that asks a person to enter 10 numbers, if he finds that there is an entry number = 5 printed to him "found" and if he does not find a print "not found" and after the program is finished, it will be reinstated on its own.while (1)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex7.c)
 
 
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
@@ -388,3 +406,14 @@ Print Incorrect if the password is wrong, otherwise print Correct](https://githu
     The first line of the input contains one integer m (m ≥ 0 ), the second line is one integer p (p ≥ 0), and the third is c (c  ≥ 0).
     Output
     Print if Foad will pass the admission phase at the university or not.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem3.c)
+
+    * [/*
+ Problem statement
+Ahmed was thinking about coding a new algorithm to get the unique values in an array A, which holds repetitive values N numbers. Moreover, Ahmed wants to solve it with a perfect approach in order to send it to Gammal Tech for the volunteering points.
+Can you help Ahmed to get Gammal Tech volunteering points?
+Input
+First line contains a number N (1 ≤ N ≤ 10^3) the number of elements.
+Second line contains N numbers (0 ≤ A[ i ]≤ 10^9).
+Output
+Print unique elements in the array.
+ */](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem4.c)
