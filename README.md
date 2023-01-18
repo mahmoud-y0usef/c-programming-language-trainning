@@ -347,6 +347,10 @@ If the number of pieces 4 software prints discount = 40%
 If 5 pieces or more software prints discount = 50%
 ](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/C%20Programming%20Practice%203/C%20Programming%20Practice%204.c)
 
+
+## [array]()
+
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
