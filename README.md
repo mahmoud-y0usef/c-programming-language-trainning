@@ -407,8 +407,7 @@ Print Incorrect if the password is wrong, otherwise print Correct](https://githu
     Output
     Print if Foad will pass the admission phase at the university or not.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem3.c)
 
-    * [
- Problem statement
+* [Problem statement
 Ahmed was thinking about coding a new algorithm to get the unique values in an array A, which holds repetitive values N numbers. Moreover, Ahmed wants to solve it with a perfect approach in order to send it to Gammal Tech for the volunteering points.
 Can you help Ahmed to get Gammal Tech volunteering points?
 Input
