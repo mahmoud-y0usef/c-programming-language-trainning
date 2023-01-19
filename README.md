@@ -368,6 +368,19 @@ If 5 pieces or more software prints discount = 50%
 
 * [A program that asks a person to enter 10 numbers, if he finds that there is an entry number = 5 printed to him "found" and if he does not find a print "not found" and after the program is finished, it will be reinstated on its own.while (1)](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/array/array-ex7.c)
 
+## [function](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/functions)
+
+* [file function](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/lesson%2014%20Functions.pdf)
+
+* [A program in which function her job is to print the word "Hello Gammal Tech"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex1.c)
+
+* [A program in which function her job is to print the word "degree = 98%"](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex2.c)
+
+* [A program in which function her job is to draw a line like "= = = = = = = ="](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex3.c)
+
+* [Program in which function her job is to print the numbers from 1 to 100](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex4.c)
+
+* [A program calculator that performs operations (combination, subtraction, multiplication and division) using the functions](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex5.c)
 
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
@@ -387,11 +400,11 @@ the total volunteering points](https://github.com/mahmoud-y0usef/c-programming-l
 * [Problem statement
 Ahmed was thinking about implementing a password checker same as his laptop, but a much simpler program. Because he always forgets his passwords, so he saved 3 passwords on his laptop's password checker.
 Ahmed's saved password
-     1111
+1111
 
-     2222
+2222
 
-     3333
+333
 You will be given multiple lines, each line containing an N number Ahmed's password Check if the password matches Ahmed's 3 saved passwords, and terminate the program if the password is Correct
 Input
 Each of the following lines will contain the passwords N 1 ≤ N ≤ 10^4
@@ -399,13 +412,13 @@ Output
 Print Incorrect if the password is wrong, otherwise print Correct](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem2.c)
 
 * [Problem statement 
-    Foad finished his Thanway Amma exams, and he is looking for a highly ranked   university to study Computer Science degree. Then, He started to do a college list   with the admission criteria for each college.
-    After long research, he found his dream university in the UK, but he got frustrated by   his marks. In fact, his marks may decrease the chance of getting into his dream   university. The admission criteria of the university in terms of school subjects
-    He must obtain more than or equal 65 in Math ( m ), more than or equal 55 in physics  ( p ),   and more than or equal 50 in Chemistry ( c ). All must be with a total of more  than or equal to 190, or to obtain more than or equal 140 in Math and Physics. Can  you  solve foad's problem, and tell him if he can be admitted or not into his dream  university.
-    Input
-    The first line of the input contains one integer m (m ≥ 0 ), the second line is one integer p (p ≥ 0), and the third is c (c  ≥ 0).
-    Output
-    Print if Foad will pass the admission phase at the university or not.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem3.c)
+Foad finished his Thanway Amma exams, and he is looking for a highly ranked   university to study Computer Science degree. Then, He started to do a college list   with the admission criteria for each college.
+After long research, he found his dream university in the UK, but he got frustrated by   his marks. In fact, his marks may decrease the chance of getting into his dream   university. The admission criteria of the university in terms of school subjects
+He must obtain more than or equal 65 in Math ( m ), more than or equal 55 in physics  ( p ),   and more than or equal 50 in Chemistry ( c ). All must be with a total of more  than or equal to 190, or to obtain more than or equal 140 in Math and Physics. Can  you  solve foad's problem, and tell him if he can be admitted or not into his dream  university.
+Input
+The first line of the input contains one integer m (m ≥ 0 ), the second line is one integer p (p ≥ 0), and the third is c (c  ≥ 0).
+Output
+Print if Foad will pass the admission phase at the university or not.](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/proplem%20solving%20c/proplem3.c)
 
 * [Problem statement
 Ahmed was thinking about coding a new algorithm to get the unique values in an array A, which holds repetitive values N numbers. Moreover, Ahmed wants to solve it with a perfect approach in order to send it to Gammal Tech for the volunteering points.
