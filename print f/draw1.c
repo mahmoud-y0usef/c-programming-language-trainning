@@ -5,5 +5,6 @@ int main(void){
     printf("\t\t*\n\n"
            "\t\t*\n\t\t*\n\t\t*\n\t\t*\n\t\t*\n\t\t*\n\t\t*\n\t\t*"
     );
+    
 return 0;
 }
