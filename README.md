@@ -382,6 +382,8 @@ If 5 pieces or more software prints discount = 50%
 
 * [A program calculator that performs operations (combination, subtraction, multiplication and division) using the functions](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex5.c)
 
+## [binary - dicemal]()
+
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
 * [Problem statement 
