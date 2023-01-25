@@ -382,7 +382,31 @@ If 5 pieces or more software prints discount = 50%
 
 * [A program calculator that performs operations (combination, subtraction, multiplication and division) using the functions](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/functions/function-ex5.c)
 
-## [binary - dicemal]()
+## [binary - dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/binary%20-%20dicemal)
+
+* [file binary part 1](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/lesson%2015%20Binary%20Part%201.pdf)
+
+* [file binary part 2](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/lesson%2016%20Binary%20Part%202.pdf)
+
+* [file binary programm](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/lesson%2017%20Binary%20Program.pdf)
+
+* [Convert the number (110) from decimal to binary - Convert the number (110) from binary to dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/binary%20-%20dicemal/binarry1.txt)
+
+* [Convert the number (1110) from decimal to binary - Convert the number (1110) from binary to dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/binary%20-%20dicemal/binarry2.txt)
+
+* [convert binary to dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/binary%20-%20dicemal/binary.c)
+
+## [octal - dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/octal%20-%20dicemal)
+
+* [file octal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/lesson%2018%20Octal.pdf)
+
+* [convert dicemal to octal - octal to dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/octal%20-%20dicemal/octal.c)
+
+## [hexadicemal - dicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/octal%20-%20dicemal)
+
+* [file hexadicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/file/lesson%2019%20Hexadecimal.pdf)
+
+* [hexadicemal - dicemal | dicemal - hexadicemal](https://github.com/mahmoud-y0usef/c-programming-language-trainning/blob/main/hexadicemal%20-%20dicemal/hexadicemal.c)
 
 ## [proplem solving c](https://github.com/mahmoud-y0usef/c-programming-language-trainning/tree/main/proplem%20solving%20c)
 
